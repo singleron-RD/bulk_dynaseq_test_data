@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2
+Test,https://github.com/singleron-RD/bulk_dynaseq_test_data/raw/main/bulk_dynaseq-V1/fastq/test.R1.fastq.gz,https://github.com/singleron-RD/bulk_dynaseq_test_data/raw/main/bulk_dynaseq-V1/fastq/test.R2.fastq.gz
